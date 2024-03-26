@@ -1,1 +1,1 @@
-# Artistic_Image_Filters_OpenCV_2
+# Image Filters using OpenCV
